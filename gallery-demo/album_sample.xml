@@ -52,4 +52,16 @@
 		<photo_loc>Camping</photo_loc>
 		<thumb_caption>Starfish</thumb_caption>
 	</photo>
+		<photo id="4">
+		<filename>2012-chrysanthemum.jpg</filename>
+		<geo>
+			<lat>49.3042602</lat>
+			<lon>-123.143792</lon>
+		</geo>
+		<photo_city>Stanley Park, BC</photo_city>
+		<photo_loc>Park</photo_loc>
+		<thumb_caption>Flower</thumb_caption>
+	</photo>
+	
+	
 </album>
